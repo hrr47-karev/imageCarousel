@@ -4,4 +4,9 @@ orbs:
 workflows:
   node-tests:
     jobs:
-      - npm/test
+      build: 
+        steps:
+          — checkout
+          - run: npm install
+ 
+          — run: npm test
