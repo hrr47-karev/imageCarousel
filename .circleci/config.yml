@@ -3,6 +3,7 @@ jobs:
   build:
     docker:
       - image: 'circleci/node:latest'
+      - working_branch: ~/feature
     steps:
       - checkout
       - run: npm install
