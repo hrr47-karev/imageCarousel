@@ -25,5 +25,5 @@ CREATE TABLE images (
     ON DELETE CASCADE
 );
 
-GRANT ALL ON image-carousel.* to 'traveler'@'localhost';
+GRANT ALL ON image_carousel.* to 'traveler'@'localhost';
 
