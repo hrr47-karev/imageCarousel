@@ -1,6 +1,6 @@
-CREATE DATABASE IF NOT EXISTS image-carousel;
+CREATE DATABASE IF NOT EXISTS image_carousel;
 
-USE image-carousel;
+USE image_carousel;
 CREATE USER 'traveler'@'localhost' IDENTIFIED BY 'travel';
 
 
