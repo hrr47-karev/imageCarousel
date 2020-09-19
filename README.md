@@ -2,6 +2,11 @@
 
 > The image carousel component for Wandrr app.
 
+## Screenshots
+![background]()
+![imagegrid]()
+![modal]()
+
 ## Related Projects
 
   - https://github.com/hrr47-karev/property-info-service
