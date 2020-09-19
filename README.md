@@ -4,9 +4,6 @@
 
 ## Screenshots
 ![modal](imagecarousel.gif)
-![screenshot](Screen Shot 2020-08-15 at 9.36.48 AM.png)
-![screenshot2](Screen Shot 2020-08-11 at 5.03.08 PM.png)
-
 
 ## Related Projects
 
